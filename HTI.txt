@@ -1,4 +1,11 @@
 Membuat folder back-end Laravel :
 -composer create-project laravel/laravel backend-laravel
 
-Konfigurasi env untuk koneksi database
+Konfigurasi file env untuk koneksi database pada bagian :
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=resto_db
+DB_USERNAME=root
+DB_PASSWORD=
