@@ -1,5 +1,4 @@
 Membuat folder back-end Laravel :
-
 -composer create-project laravel/laravel backend-laravel
--php artisan make:migration create_menus_table
--
+
+Konfigurasi env untuk koneksi database
